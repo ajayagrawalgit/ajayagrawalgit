@@ -3,6 +3,7 @@
 - 🌱 Working as a Python Developer and Linux Automation Engineer for an MNC...
 - 💞️ I’m actively looking for good collaborations...
 - 📫 Reach out -> ajayagrawalhere@gmail.com
+- 🐦 Follow my Twitter Bot -> @mickbotsays
 
 <!---
 ajayagrawalgit/ajayagrawalgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
