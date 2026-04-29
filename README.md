@@ -17,8 +17,8 @@ that scale. Currently working as an **Automation Framework Developer** at a lead
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
 | **NeurOps** | AI-driven system that detects, predicts, and heals infrastructure failures | Python, Gemini, Google Cloud, Kubernetes | [🔗](https://github.com/ajayagrawalgit/NeurOps) |
-| **MickTrace** | Production-ready async logging library with cloud integration | Python, AWS/Azure/GCP | [🔗](https://github.com/ajayagrawalgit/MickTrace) ⭐9 |
-| **Apex** | Multi-agent malicious URL detection with Gemini AI | Python, Google ADK, Gemini | [🔗](https://github.com/ajayagrawalgit/Apex) ⭐5 |
+| **MickTrace** | Production-ready async logging library with cloud integration | Python, AWS/Azure/GCP | [🔗](https://github.com/ajayagrawalgit/MickTrace) |
+| **Apex** | Multi-agent malicious URL detection with Gemini AI | Python, Google ADK, Gemini | [🔗](https://github.com/ajayagrawalgit/Apex) |
 | **IntentOS** | Gemini-powered data transformation engine | Python, NLP, Data Processing | [🔗](https://github.com/ajayagrawalgit/IntentOS) |
 
 ---
