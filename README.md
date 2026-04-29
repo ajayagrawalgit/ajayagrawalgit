@@ -43,10 +43,9 @@ that scale. Currently working as an **Automation Framework Developer** at a lead
 - 🔍 Advanced LLM agents, Kubernetes orchestration, and building production-grade AI systems. 
 - Diving deeper into chaos engineering and self-healing infrastructure patterns.
 
-### 🤝 Available For
-Collaborations on AI-driven DevOps tools, open-source automation frameworks, and 
-production-ready infrastructure solutions. Love hackathons, SRE discussions, and building tools 
-that matter.
+### 🤝 Always Available For
+- Collaborations on AI-driven DevOps tools, open-source automation frameworks, and production-ready infrastructure solutions.
+- Love hackathons, SRE discussions, and building tools that matter.
 
 ### 🎖️ Holopin Board
 [![Ajay's Holopin Badges](https://holopin.me/ajayagrawalgit)](https://holopin.io/@ajayagrawalgit)
